@@ -22,6 +22,7 @@
 **Today's Progress**: Built a Cloud Service Product web page using bootstrap
 
 **Thoughts:** I took my web design skill up by using bootstrap 4 in my website. Infact I built this web page completely using bootstrap 4 and uses lesser css to test the skills on bootstrap
+
 **Link to work:** [Cloud service web page](https://github.com/alokpadhi/Cloud-Service-Product-Webpage.git)
 [codepen view](https://codepen.io/alokpadhi/full/XYLWjQ/)
 
