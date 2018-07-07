@@ -27,7 +27,7 @@
 [codepen view](https://codepen.io/alokpadhi/full/XYLWjQ/)
 
 
-### Day 4: July 6, 2018
+### Day 4: July 7, 2018
 
 **Today's Progress**: Started a new project of designing a javascript documentation page, wrote html layout and put some styling into it.
 
