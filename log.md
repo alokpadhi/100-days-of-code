@@ -26,3 +26,14 @@
 **Link to work:** [Cloud service web page](https://github.com/alokpadhi/Cloud-Service-Product-Webpage.git)
 [codepen view](https://codepen.io/alokpadhi/full/XYLWjQ/)
 
+
+### Day 4: July 6, 2018
+
+**Today's Progress**: Started a new project of designing a javascript documentation page, wrote html layout and put some styling into it.
+
+**Thoughts:** Sorry to miss out a day because of some other work, but good to back in track again and started a new project by designing documentation page a tutorial kinda. Using some more new html tags and focusing more on css. 
+
+**Link to work:** [Documentation web page](https://github.com/alokpadhi/Documentation-Page.git)
+
+
+
