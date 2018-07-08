@@ -35,5 +35,14 @@
 
 **Link to work:** [Documentation web page](https://github.com/alokpadhi/Documentation-Page.git)
 
+### Day 5: July 8, 2018
+
+**Today's Progress**: Added bootstrap to the web page(Documentation web page) and fixed some css.
+
+**Thoughts:** After a basic html layout completed i thought to add bootstrap for easy-to-use case, that's really good. and i think i still nedd to work a lot on my css skills. 
+
+**Link to work:** [Documentation web page](https://github.com/alokpadhi/Documentation-Page.git)
+[codepen view](https://codepen.io/alokpadhi/full/mKNoKr/)
+
 
 
