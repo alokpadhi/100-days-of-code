@@ -19,3 +19,8 @@ Completed a cloud service product web page enabled with bootstrap. Tried to use 
 ### R1D4
 Started a Documentation web page for javascript with primary focus on CSS.
 [Github Repo] (https://github.com/alokpadhi/Documentation-Page.git)
+
+### R1D5
+Completed the documentation web page but without any javascript, so in future i will add javascript into it. For today I added  bootstrap to my page and fixed some CSS.
+[Github Repo] (https://github.com/alokpadhi/Documentation-Page.git)
+[Codepen View] (https://codepen.io/alokpadhi/full/mKNoKr/)
