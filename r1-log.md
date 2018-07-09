@@ -30,3 +30,7 @@ Completed the documentation web page but without any javascript, so in future i 
 [Github Repo] (https://github.com/alokpadhi/Documentation-Page.git)
 
 [Codepen View] (https://codepen.io/alokpadhi/full/mKNoKr/)
+
+### R1D6
+Started work on my portfolio web page. A combination of html, css and bootstrap.
+[Github Repo]https://github.com/alokpadhi/My-Portfolio.git
