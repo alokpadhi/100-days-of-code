@@ -52,6 +52,16 @@
 
 **Link to work:** [Portfolio web page](https://github.com/alokpadhi/My-Portfolio.git)
 
+### Day 7: July 10, 2018
+
+**Today's Progress**: continued work on my portfolio web page, changed the design a bit and added updated css section
+
+**Thoughts:** Sometimes you need to look at your work and make some changes before adding something new, that's what i did. Before adding anything new today i go through my whole code and made changes wherever i feel. 
+
+**Link to work:** [Portfolio web page](https://github.com/alokpadhi/My-Portfolio.git)
+
+
+
 
 
 
