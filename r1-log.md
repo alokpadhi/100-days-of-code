@@ -34,3 +34,7 @@ Completed the documentation web page but without any javascript, so in future i 
 ### R1D6
 Started work on my portfolio web page. A combination of html, css and bootstrap.
 [Github Repo]https://github.com/alokpadhi/My-Portfolio.git
+
+### R1D7
+continued work on portfolio web page, did some changes and added some new ones too.
+[Github Repo]https://github.com/alokpadhi/My-Portfolio.git
