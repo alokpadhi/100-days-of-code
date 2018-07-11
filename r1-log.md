@@ -38,3 +38,8 @@ Started work on my portfolio web page. A combination of html, css and bootstrap.
 ### R1D7
 continued work on portfolio web page, did some changes and added some new ones too.
 [Github Repo]https://github.com/alokpadhi/My-Portfolio.git
+
+### R1D8
+continued work on portfolio web page, Added skills and footer section, used css flexbox, fontawesome
+[Github Repo]https://github.com/alokpadhi/My-Portfolio.git
+[Live Website](https://alokpadhi.github.io)
