@@ -52,7 +52,7 @@
 
 **Link to work:** [Portfolio web page](https://github.com/alokpadhi/My-Portfolio.git)
 
-### Day 7: July 10, 2018
+### Day 7: July 11, 2018
 
 **Today's Progress**: continued work on my portfolio web page, changed the design a bit and added updated css section
 
@@ -60,6 +60,14 @@
 
 **Link to work:** [Portfolio web page](https://github.com/alokpadhi/My-Portfolio.git)
 
+### Day 8: July 10, 2018
+
+**Today's Progress**: continued work on my portfolio web page, Added skills section and footer section, worked on css flexbox model
+
+**Thoughts:** Great feeling to have my own portfolio webpage. Not quite good looking but overall it's good to clear the first stage of this project. 
+
+**Link to work:** [Portfolio web page](https://github.com/alokpadhi/My-Portfolio.git)
+[Live Website](https://alokpadhi.github.io)
 
 
 
