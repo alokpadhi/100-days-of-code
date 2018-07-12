@@ -69,6 +69,14 @@
 **Link to work:** [Portfolio web page](https://github.com/alokpadhi/My-Portfolio.git)
 [Live Website](https://alokpadhi.github.io)
 
+### Day 9: July 11, 2018
+
+**Today's Progress**: spent some quality time on javascript regular expressions over freecodecamp, and also worked on JS object and prototype section.
+
+**Thoughts:** It's not any project work today but a day to learn more about javascript so that I can use that in my upcoming projects.
+
+**Link to work:** No link to provide today
+
 
 
 
