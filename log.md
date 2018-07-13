@@ -52,7 +52,7 @@
 
 **Link to work:** [Portfolio web page](https://github.com/alokpadhi/My-Portfolio.git)
 
-### Day 7: July 11, 2018
+### Day 7: July 10, 2018
 
 **Today's Progress**: continued work on my portfolio web page, changed the design a bit and added updated css section
 
@@ -60,7 +60,7 @@
 
 **Link to work:** [Portfolio web page](https://github.com/alokpadhi/My-Portfolio.git)
 
-### Day 8: July 10, 2018
+### Day 8: July 11, 2018
 
 **Today's Progress**: continued work on my portfolio web page, Added skills section and footer section, worked on css flexbox model
 
@@ -69,13 +69,21 @@
 **Link to work:** [Portfolio web page](https://github.com/alokpadhi/My-Portfolio.git)
 [Live Website](https://alokpadhi.github.io)
 
-### Day 9: July 11, 2018
+### Day 9: July 12, 2018
 
 **Today's Progress**: spent some quality time on javascript regular expressions over freecodecamp, and also worked on JS object and prototype section.
 
 **Thoughts:** It's not any project work today but a day to learn more about javascript so that I can use that in my upcoming projects.
 
 **Link to work:** No link to provide today
+
+### Day 10: July 13, 2018
+
+**Today's Progress**: Again spent time on JavaScript, today worked on basic algorithimic scripting on freecodecamp
+
+**Thoughts:** spending time on javascript is really good, today its about some logic and to use js effectively.
+
+**Link to work:** [check my freecodecamp profile for daily work](https://www.freecodecamp.org/alokpadhi)
 
 
 
