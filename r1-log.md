@@ -51,3 +51,6 @@ continued work on portfolio web page, Added skills and footer section, used css 
 
 ### R1D9
 worked on js regular expression and prototype
+
+### R1D10
+worked on basic algorithmic scripting with js on freecodecamp
