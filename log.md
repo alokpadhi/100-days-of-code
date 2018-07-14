@@ -86,6 +86,15 @@
 **Link to work:** [check my freecodecamp profile for daily work](https://www.freecodecamp.org/alokpadhi)
 
 
+### Day 11: July 14, 2018
+
+**Today's Progress**: More time on JavaScript, alomst completed the  basic algorithimic scripting on freecodecamp
+
+**Thoughts:** spending time on javascript is really good and feels nice. becasue i know this amount of time will ease my way for new projects..
+
+**Link to work:** [check my freecodecamp profile for daily work](https://www.freecodecamp.org/alokpadhi)
+
+
 
 
 
