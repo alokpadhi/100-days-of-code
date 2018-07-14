@@ -54,3 +54,6 @@ worked on js regular expression and prototype
 
 ### R1D10
 worked on basic algorithmic scripting with js on freecodecamp
+
+### R1D11
+more time on JS and almost going to finish the algorithmic scripting part
