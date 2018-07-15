@@ -57,3 +57,6 @@ worked on basic algorithmic scripting with js on freecodecamp
 
 ### R1D11
 more time on JS and almost going to finish the algorithmic scripting part
+
+### R1D12
+Worked on pytho decorators today, learned how to use this for login autorization with some testing code
