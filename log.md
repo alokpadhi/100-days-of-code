@@ -95,6 +95,12 @@
 **Link to work:** [check my freecodecamp profile for daily work](https://www.freecodecamp.org/alokpadhi)
 
 
+### Day 12: July 15, 2018
+
+**Today's Progress**: Worked on my python skills, spent my whole time to learn decorators and how to use this for login authorization
+
+**Thoughts:** Working with python is always been great, from last days i had worked on js much but today thought to work on python and started with decoraotrs, and how can i use decorators for login authorization with flask
+
 
 
 
