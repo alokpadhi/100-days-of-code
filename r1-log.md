@@ -60,3 +60,6 @@ more time on JS and almost going to finish the algorithmic scripting part
 
 ### R1D12
 Worked on python decorators today, learned how to use this for login autorization with some testing code
+
+### R1D13
+Practice code snippets and challenges on ES6 over freecodecamp, learned great new features introduced in ES6
