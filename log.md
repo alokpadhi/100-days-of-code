@@ -92,7 +92,7 @@
 
 **Thoughts:** spending time on javascript is really good and feels nice. becasue i know this amount of time will ease my way for new projects..
 
-**Link to work:** [check my freecodecamp profile for daily work](https://www.freecodecamp.org/alokpadhi)
+**Link to work:** [check my freecodecamp profile for today's work](https://www.freecodecamp.org/alokpadhi)
 
 
 ### Day 12: July 15, 2018
@@ -100,6 +100,14 @@
 **Today's Progress**: Worked on my python skills, spent my whole time to learn decorators and how to use this for login authorization
 
 **Thoughts:** Working with python is always been great, from last days i had worked on js much but today thought to work on python and started with decoraotrs, and how can i use decorators for login authorization with flask
+
+### Day 13: July 16, 2018
+
+***Today's Progress**: opt for ES6 today, practice ES6 on freecodecamp
+
+***Thoughts:*** Feel quite challenging while practicing though the new features are quite useful, the rest, spread opearators, let, const keywords, and destructors are really helpful to write efficient code.
+
+**Link to work:** [check my freecodecamp profile for today's work](https://www.freecodecamp.org/alokpadhi)
 
 
 
