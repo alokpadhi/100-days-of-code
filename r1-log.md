@@ -63,3 +63,6 @@ Worked on python decorators today, learned how to use this for login autorizatio
 
 ### R1D13
 Practice code snippets and challenges on ES6 over freecodecamp, learned great new features introduced in ES6
+
+### R1D14
+worked on my portfolio web page and changed some styling
