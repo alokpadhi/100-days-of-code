@@ -109,6 +109,17 @@
 
 **Link to work:** [check my freecodecamp profile for today's work](https://www.freecodecamp.org/alokpadhi)
 
+### Day 14: July 17, 2018
+
+**Today's Progress**: Back to work on my portfolio website, changed my skills section design, added blog html(incomplete)
+
+**Thoughts:** Improving the portfolio website is really great, changed some styles and will add my blog section  
+
+**Link to work:** [Portfolio web page](https://github.com/alokpadhi/My-Portfolio.git)
+[Live Website](https://alokpadhi.github.io)
+
+
+
 
 
 
