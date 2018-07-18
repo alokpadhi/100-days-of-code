@@ -118,6 +118,15 @@
 **Link to work:** [Portfolio web page](https://github.com/alokpadhi/My-Portfolio.git)
 [Live Website](https://alokpadhi.github.io)
 
+### Day 15: July 18, 2018
+
+**Today's Progress**: Working on portfolio webpage continues, Added blog page and corresponding sections
+
+**Thoughts:** so it's good to have your own blog page, nice to added some jQuery and worked with side navigaton.  
+
+**Link to work:** [Portfolio web page](https://github.com/alokpadhi/My-Portfolio.git)
+[Live Website](https://alokpadhi.github.io)
+
 
 
 
