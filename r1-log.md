@@ -66,3 +66,6 @@ Practice code snippets and challenges on ES6 over freecodecamp, learned great ne
 
 ### R1D14
 worked on my portfolio web page and changed some styling
+
+### R1D15
+continued to work on portfolio and added my blog section with sidebar naviagation and uses a bit of jQuery
