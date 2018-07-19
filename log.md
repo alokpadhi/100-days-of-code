@@ -127,6 +127,12 @@
 **Link to work:** [Portfolio web page](https://github.com/alokpadhi/My-Portfolio.git)
 [Live Website](https://alokpadhi.github.io)
 
+### Day 16: July 19, 2018
+
+**Today's Progress**: Added jquery, more css styling and fixed errors to make responsive
+**Thoughts:** This is what yo want, when you put a little day by day and make your website better. Addind jquery and with more css styling it looks much better than ever.
+**Link to work:** [Portfolio web page](https://github.com/alokpadhi/My-Portfolio.git)
+[Live Website](https://alokpadhi.github.io)
 
 
 
