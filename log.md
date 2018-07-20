@@ -135,6 +135,20 @@
 [Live Website](https://alokpadhi.github.io)
 
 
+### Day 17: July 20, 2018
+
+**Today's Progress**: Added Google map api, translator and keyboard hit for carousel effect
+**Thoughts:** moving towards using more js and jquery. Just started using js will add more interaction to the website 
+**Link to work:** [Portfolio web page](https://github.com/alokpadhi/My-Portfolio.git)
+[Live Website](https://alokpadhi.github.io)
+
+
+
+
+
+
+
+
 
 
 
