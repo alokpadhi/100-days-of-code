@@ -70,5 +70,11 @@ worked on my portfolio web page and changed some styling
 ### R1D15
 continued to work on portfolio and added my blog section with sidebar naviagation and uses a bit of jQuery
 
-### R!D16
+### R1D16
 worked on portfolio and added jQuery, more css and worked on responsive style
+
+### R1D17
+continued to work on portfolio, used google map api, google translator and added keyboard effect on carousel
+
+### R1D18
+practice on freecodecamp basci datastructure section
