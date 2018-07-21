@@ -142,6 +142,12 @@
 **Link to work:** [Portfolio web page](https://github.com/alokpadhi/My-Portfolio.git)
 [Live Website](https://alokpadhi.github.io)
 
+### Day 18: July 21, 2018
+
+**Today's Progress**: Practice on freecodecamp.org, basic datastructures with javascript
+**Thoughts:** Nothing like very heavy work today, just completed the challenges on freecodecamp basic datastructure section
+
+
 
 
 
