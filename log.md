@@ -147,7 +147,27 @@
 **Today's Progress**: Practice on freecodecamp.org, basic datastructures with javascript
 **Thoughts:** Nothing like very heavy work today, just completed the challenges on freecodecamp basic datastructure section
 
+### Day 19: July 22, 2018
 
+**Today's Progress**: Testing of different effects and animation using jQuery and css
+**Thoughts:** So it's like trial and run type of day, worked on different jquery methods and tried to compare with css animations but I'm long way to make any changes
+
+### Day 20: July 23, 2018
+
+**Today's Progress**: And the testing continues for my portfolio webpage
+**Thoughts:** Again same routine to test different jquery and css effects, but i did not find any change relevant and worthy, thinking about taking a break and start working on some machine learning projects
+
+### Day 21: July 24, 2018
+
+**Today's Progress**: Started working on a machine learning project, housing price prediction problem 
+**Thoughts:** Get the data, view the data, analyze the attributes, checking instances etc This is what the first step of a machine learning project
+**Link to work**: [House price prediction](https://github.com/alokpadhi/House-Price-Prediction)
+
+### Day 22: July 25, 2018
+
+**Today's Progress**: Work continued on data, exploring more about the data, visualize the data, make train and test set
+**Thoughts**: Working on train and test set of data, check collinearity this is all done. Overall a nice feeling of working on some real data, looking forward to do clean the data and make it usable for machine learning algorithm learning.
+**Link to work**:[House price prediction](https://github.com/alokpadhi/House-Price-Prediction)
 
 
 
