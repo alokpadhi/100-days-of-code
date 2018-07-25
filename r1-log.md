@@ -78,3 +78,15 @@ continued to work on portfolio, used google map api, google translator and added
 
 ### R1D18
 practice on freecodecamp basci datastructure section
+
+### R1D19
+Testing different effects and animations using javascript, jQuery and css on my portfolio page
+
+### R1D20
+Testing continues with more effects and animations
+
+### R1D21
+Started working on a machine learning project "House price prediction
+
+### R1D22
+continued to work on the same machine learning projcet
