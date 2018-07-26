@@ -169,6 +169,13 @@
 **Thoughts**: Working on train and test set of data, check collinearity this is all done. Overall a nice feeling of working on some real data, looking forward to do clean the data and make it usable for machine learning algorithm learning.
 **Link to work**:[House price prediction](https://github.com/alokpadhi/House-Price-Prediction)
 
+### Day 23: July 26, 2018
+
+**Today's Progress**: Housing price prediction problem, spent a lot of time on Data and finally able to train model
+**Thoughts**: working on data is really interesting, tried linear regresion, decission tree regressor, random forest with cross validation but still a good model need to find
+**Link to work**:[House price prediction](https://github.com/alokpadhi/House-Price-Prediction)
+
+
 
 
 
