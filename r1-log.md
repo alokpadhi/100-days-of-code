@@ -90,3 +90,6 @@ Started working on a machine learning project "House price prediction
 
 ### R1D22
 continued to work on the same machine learning projcet
+
+### R1D23
+More work on data and train several models using cross validation too. And with this I have started my #100DaysOfMLCode challenge too
