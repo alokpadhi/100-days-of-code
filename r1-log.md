@@ -93,3 +93,6 @@ continued to work on the same machine learning projcet
 
 ### R1D23
 More work on data and train several models using cross validation too. And with this I have started my #100DaysOfMLCode challenge too
+
+### R1D24
+worked on fine tuning the model and find the best hyperparameters
