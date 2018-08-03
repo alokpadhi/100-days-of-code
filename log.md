@@ -199,7 +199,13 @@
 * Linear Regression: 26/30
 * Logistic Regression: 24/30
 
+### August 1, 2, 2018 - due to health issue can't commit to code
 
+### Day28: August 3, 2018
+
+**Today's Progress**: brushed up my skills on ES over freecodecamp
+**Thoughts**: Thought to recall all ES6 concepts so its a day with revision, forgotten some key concepts so its good to revisit them and now I feel bit more confident about using ES6.
+**Link to Worl**: [check my freecodecamp profile for today's work](https://www.freecodecamp.org/alokpadhi)
 
 
 
