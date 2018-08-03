@@ -96,3 +96,15 @@ More work on data and train several models using cross validation too. And with 
 
 ### R1D24
 worked on fine tuning the model and find the best hyperparameters
+
+### R1D25
+Tried to learn about different optimization techniques
+
+### R1D26
+some data visualization, and testing on different algorithm and finally fine tune them
+
+### R1D27
+Going deeper to the regression and learn more about regression, all thanks to the articles posted in analyticsvidhya.com 
+* Linear Regression: 26/30
+* Logistic Regression: 24/30
+
