@@ -108,3 +108,6 @@ Going deeper to the regression and learn more about regression, all thanks to th
 * Linear Regression: 26/30
 * Logistic Regression: 24/30
 
+### R1D28
+Brushed my skills on freecodecamp ES6 section, tried to recall the concepts and redo the challenges.
+[check my freecodecamp profile for today's work](https://www.freecodecamp.org/alokpadhi)
