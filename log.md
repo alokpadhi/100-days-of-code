@@ -207,6 +207,16 @@
 **Thoughts**: Thought to recall all ES6 concepts so its a day with revision, forgotten some key concepts so its good to revisit them and now I feel bit more confident about using ES6.
 **Link to Worl**: [check my freecodecamp profile for today's work](https://www.freecodecamp.org/alokpadhi)
 
+### Day29: August 4, 2018
+
+**Today's Progress**: Functional programming, ES6 javascript on freecodecamp
+**Thoughts**: Still trying to improve a lot on javascript, just finding a way to connect all concepts so that I can apply them.
+
+### Day30: August 5, 2018
+
+**Today's Progress**: Object Oriented programming javascript on freecodecamp
+**Thoughts**: Practice, challenge, code and repeat. This is what I am going through now. Thinking about to start built something with pure javascript without any framework or library.
+
 
 
 
