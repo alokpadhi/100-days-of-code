@@ -217,6 +217,10 @@
 **Today's Progress**: Object Oriented programming javascript on freecodecamp
 **Thoughts**: Practice, challenge, code and repeat. This is what I am going through now. Thinking about to start built something with pure javascript without any framework or library.
 
+### Day31: August 6, 2018
+
+**Today's Progress**: back to functional programming javascript on freecodecamp
+**Thoughts**: This is taking so much time to get acquainted with javascipt, but this is the real fun. spending more and more time to learn one thing, but just doing challenges is not enough, will have to implement these into some real action and learn by doing.   
 
 
 
