@@ -220,7 +220,13 @@
 ### Day31: August 6, 2018
 
 **Today's Progress**: back to functional programming javascript on freecodecamp
-**Thoughts**: This is taking so much time to get acquainted with javascipt, but this is the real fun. spending more and more time to learn one thing, but just doing challenges is not enough, will have to implement these into some real action and learn by doing.   
+**Thoughts**: This is taking so much time to get acquainted with javascipt, but this is the real fun. spending more and more time to learn one thing, but just doing challenges is not enough, will have to implement these into some real action and learn by doing. 
+
+### Day32: August 7, 2018
+
+**Today's Progress**: Get started with javascript thing and the best project I could find for this is my own portfolio page
+**Thoughts**: Testing some animations, some works well and some are really worse. But before I make it live these changes I will work on it more and then the final change will be commited and be live. Also take some js code snippets like browser detection, cookies and all to see how it works. 
+**Link to My work**: [As no final change made yet so I am not providing any link, but these codes were pushed to my portfolio github repo]
 
 
 
