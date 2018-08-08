@@ -130,7 +130,9 @@
 ### Day 16: July 19, 2018
 
 **Today's Progress**: Added jquery, more css styling and fixed errors to make responsive
+
 **Thoughts:** This is what yo want, when you put a little day by day and make your website better. Addind jquery and with more css styling it looks much better than ever.
+
 **Link to work:** [Portfolio web page](https://github.com/alokpadhi/My-Portfolio.git)
 [Live Website](https://alokpadhi.github.io)
 
@@ -138,63 +140,80 @@
 ### Day 17: July 20, 2018
 
 **Today's Progress**: Added Google map api, translator and keyboard hit for carousel effect
+
 **Thoughts:** moving towards using more js and jquery. Just started using js will add more interaction to the website 
+
 **Link to work:** [Portfolio web page](https://github.com/alokpadhi/My-Portfolio.git)
 [Live Website](https://alokpadhi.github.io)
 
 ### Day 18: July 21, 2018
 
 **Today's Progress**: Practice on freecodecamp.org, basic datastructures with javascript
+
 **Thoughts:** Nothing like very heavy work today, just completed the challenges on freecodecamp basic datastructure section
 
 ### Day 19: July 22, 2018
 
 **Today's Progress**: Testing of different effects and animation using jQuery and css
+
 **Thoughts:** So it's like trial and run type of day, worked on different jquery methods and tried to compare with css animations but I'm long way to make any changes
 
 ### Day 20: July 23, 2018
 
 **Today's Progress**: And the testing continues for my portfolio webpage
+
 **Thoughts:** Again same routine to test different jquery and css effects, but i did not find any change relevant and worthy, thinking about taking a break and start working on some machine learning projects
 
 ### Day 21: July 24, 2018
 
 **Today's Progress**: Started working on a machine learning project, housing price prediction problem 
+
 **Thoughts:** Get the data, view the data, analyze the attributes, checking instances etc This is what the first step of a machine learning project
+
 **Link to work**: [House price prediction](https://github.com/alokpadhi/House-Price-Prediction)
 
 ### Day 22: July 25, 2018
 
 **Today's Progress**: Work continued on data, exploring more about the data, visualize the data, make train and test set
+
 **Thoughts**: Working on train and test set of data, check collinearity this is all done. Overall a nice feeling of working on some real data, looking forward to do clean the data and make it usable for machine learning algorithm learning.
+
 **Link to work**:[House price prediction](https://github.com/alokpadhi/House-Price-Prediction)
 
 ### Day 23: July 26, 2018
 
 **Today's Progress**: Housing price prediction problem, spent a lot of time on Data and finally able to train model
+
 **Thoughts**: working on data is really interesting, tried linear regresion, decission tree regressor, random forest with cross validation but still a good model need to find
+
 **Link to work**:[House price prediction](https://github.com/alokpadhi/House-Price-Prediction)
 
 ### Day 24: July 27, 2018
 
 **Today's Progress**: Worked on fine tuning the model using Grid search method
+
 **Thoughts**: will use Random search and regularize to couter the overfiting problem
+
 **Link to work**:[House price prediction](https://github.com/alokpadhi/House-Price-Prediction)
 
 ### Day 25,July 28, 2018
 
 **Today's Progress**: Tried to learn about different optimization techniques
+
 **Thoughts**: Just a learning phase, using different optimization and to know how and where to use them is really great
 
 ### Day 26: July 30, 2018
 
 **Today's Progress**: some data visualization, and testing on different algorithm and finally fine tune them
+
 **Thoughts**: when you're working on a machine learning project it is really necessary to work on data very very well, if your data is good enough and you have a great insight of it then the couple of algorithm will do your work, and ofcourse the optimization techniques.
+
 **Link to work**:[House price prediction](https://github.com/alokpadhi/House-Price-Prediction)
 
 ### Day 27: July 31, 2018
 
 **Today's Progress**: Going deeper to the regression and learn more about regression, all thanks to the articles posted in analyticsvidhya.com 
+
 **Thoughts**: Skill test on analyticsvidhya for linear regression and logistic regression. And the scores are as follows.
 * Linear Regression: 26/30
 * Logistic Regression: 24/30
@@ -204,34 +223,43 @@
 ### Day28: August 3, 2018
 
 **Today's Progress**: brushed up my skills on ES over freecodecamp
+
 **Thoughts**: Thought to recall all ES6 concepts so its a day with revision, forgotten some key concepts so its good to revisit them and now I feel bit more confident about using ES6.
+
 **Link to Worl**: [check my freecodecamp profile for today's work](https://www.freecodecamp.org/alokpadhi)
 
 ### Day29: August 4, 2018
 
 **Today's Progress**: Functional programming, ES6 javascript on freecodecamp
+
 **Thoughts**: Still trying to improve a lot on javascript, just finding a way to connect all concepts so that I can apply them.
 
 ### Day30: August 5, 2018
 
 **Today's Progress**: Object Oriented programming javascript on freecodecamp
+
 **Thoughts**: Practice, challenge, code and repeat. This is what I am going through now. Thinking about to start built something with pure javascript without any framework or library.
 
 ### Day31: August 6, 2018
 
 **Today's Progress**: back to functional programming javascript on freecodecamp
+
 **Thoughts**: This is taking so much time to get acquainted with javascipt, but this is the real fun. spending more and more time to learn one thing, but just doing challenges is not enough, will have to implement these into some real action and learn by doing. 
 
 ### Day32: August 7, 2018
 
 **Today's Progress**: Get started with javascript thing and the best project I could find for this is my own portfolio page
+
 **Thoughts**: Testing some animations, some works well and some are really worse. But before I make it live these changes I will work on it more and then the final change will be commited and be live. Also take some js code snippets like browser detection, cookies and all to see how it works. 
+
 **Link to My work**: [As no final change made yet so I am not providing any link, but these codes were pushed to my portfolio github repo]
 
 ### Day33: August 8, 2018
 
 **Today's Progress**: some competitive coding today on hackerrank, two problem solved, one from #10daysofstats and one from #30daysofcode
-**Thoughts**: solving problems on these competitive sites are really great. this just chills out your mind sometimes but sometimes not. still a wonderfull way increase your problem solving skills.
+
+**Thoughts**: solving problems on these competitive sites are really great. this just chills out your mind sometimes but sometimes not. still a wonderfull way increase your problem solving skills. 
+
 **Link to My work**: [Hackerrank profile](https://www.hackerrank.com/Alok_Kumar_Padhi)
 
 
