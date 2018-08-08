@@ -228,6 +228,12 @@
 **Thoughts**: Testing some animations, some works well and some are really worse. But before I make it live these changes I will work on it more and then the final change will be commited and be live. Also take some js code snippets like browser detection, cookies and all to see how it works. 
 **Link to My work**: [As no final change made yet so I am not providing any link, but these codes were pushed to my portfolio github repo]
 
+### Day33: August 8, 2018
+
+**Today's Progress**: some competitive coding today on hackerrank, two problem solved, one from #10daysofstats and one from #30daysofcode
+**Thoughts**: solving problems on these competitive sites are really great. this just chills out your mind sometimes but sometimes not. still a wonderfull way increase your problem solving skills.
+**Link to My work**: [Hackerrank profile](https://www.hackerrank.com/Alok_Kumar_Padhi)
+
 
 
 
