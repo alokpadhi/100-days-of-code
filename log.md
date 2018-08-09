@@ -262,6 +262,17 @@
 
 **Link to My work**: [Hackerrank profile](https://www.hackerrank.com/Alok_Kumar_Padhi)
 
+### Day34: August 9, 2018
+
+**Today's Progress**: started #30javascript: drum-kit project(day 1), #10daysofstats: code on quartile problem 
+
+**Thoughts**: drum-kit project, worked on event listener, queryselect, change in css attribute. Well this is the stepping stone to use javascript fully.
+#10daysofstats, quartile problem, standrad deviation 
+
+**Link to My work**: [Hackerrank profile](https://www.hackerrank.com/Alok_Kumar_Padhi)
+
+[Drum-kit project](https://github.com/alokpadhi/30daysJavaScript.git)
+
 
 
 
