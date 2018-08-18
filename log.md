@@ -273,6 +273,73 @@
 
 [Drum-kit project](https://github.com/alokpadhi/30daysJavaScript.git)
 
+### Day35: August 10, 2018
+
+**Today's Progress**: #30javascript: css + js clock project(day 2) 
+
+**Thoughts**: so more conepts using js. bit of css work too. and its all about how to use Date() and play with the hands of clock.
+
+**Link to My work**: [css + js clock](https://github.com/alokpadhi/30daysJavaScript.git)
+
+### Day36: August 11, 2018
+
+**Today's Progress**: jquery revisit on freecodecamp
+
+**Thoughts**: just to revise jquery. it's not like to build something new everyday rather to find ways to  sharp your skills too and it can be done in any way. either you use your learning to built something or do some excercise.
+
+
+### Day37: August 12, 2018
+
+**Today's Progress**: #30javascript: played with css variable using js(day 3) 
+
+**Thoughts**: making css variables dynamic is really what you need in these days. you always aim that you dont need to go to several occurance of someting and make changes rather where you think this variable may change time to time, thats why using js for this really saves a lot of time.
+
+**Link to My work**: [Drum-kit project](https://github.com/alokpadhi/30daysJavaScript.git)
+
+### Day38: August 13, 2018
+
+**Today's Progress**: previous task continued as I tried to implement this for my portfolio
+
+**Thoughts**: Like i want to make switch between the theme of page dark-light according to user references. but I think I need to learn more to apply this effect as it needed a lot changes to be done now.
+
+
+### Day39: August 14, 2018
+
+**Today's Progress**: #30javascript: Array cardio day 1(day 4) 
+
+**Thoughts**:so its time to play with different array methods. filter(), map(), sort(), reduce() all these, learnt to apply these efficiently. some coding excercise today.
+
+**Link to My work**: [Array cardio day 1](https://github.com/alokpadhi/30daysJavaScript.git)
+
+### Day40: August 15, 2018
+
+**Today's Progress**: #30javascript: Flex gallery image(day 5) 
+
+**Thoughts**: Flex galley, this is something that is really handy when you publish some albums on web page. this feature really good though this can be easily done with jquery/
+
+**Link to My work**: [Flex box galllery](https://github.com/alokpadhi/30daysJavaScript.git)
+
+### Day41: August 16, 2018
+
+**Today's Progress**: #30javascript: Array cardio day 2(day 7) will do day 6 part later. 
+
+**Thoughts**: more array and its heavy. bit more coding excercise but not that much. that's it for today.
+
+**Link to My work**: [array cardio day 2](https://github.com/alokpadhi/30daysJavaScript.git)
+
+### Day42: August 17, 2018
+
+**Today's Progress**: machine learning time logitstic regression, softmax regression and svm  
+**Thoughts**: A lot of time on machine learning only. logistic, softmax done. svm on andrew ng courese done. ready to do some more practical work using svm.
+
+
+### Day43: August 18, 2018
+
+**Today's Progress**: svm on udacity. and naive bayes on udacity too
+
+**Thoughts**: naive bayes completed on udacity with a text classification using naive bayes with a 0.97 test accuracy.
+
+
 
 
 
